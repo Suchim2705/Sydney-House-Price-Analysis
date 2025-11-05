@@ -23,8 +23,7 @@ These insights can help buyers, sellers, and investors better understand seasona
 ---
 
 ## Dataset
-- Source: [Kaggle Sydney House Prices Dataset](https://www.kaggle.com/)  
-- Contains property transaction data including:
+- Contains property transaction data, including:
   - Transaction date
   - Property price
   - Location
